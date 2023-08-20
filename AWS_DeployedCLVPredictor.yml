@@ -1,0 +1,11 @@
+name: AWS_DeployedCLVPredictor
+dependencies: 
+  - python=3.11.4
+  - pip
+  - pip: 
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - sklearn
+    - pytorch
