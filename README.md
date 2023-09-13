@@ -7,4 +7,5 @@ This is an end-to-end machine learning project completed using Amazon Web Servic
 - Data Querying ([Data Querying.ipynb](https://github.com/vubanc/AWS_DeployedCLVPredictor/blob/main/Data%20Querying.ipynb)): Performed bivariate analysis by running SQL queries on Amazon Athena.
 - CLV Prediction and Model Deployment ([AWS_DeployedCLVPredictor.ipynb](https://github.com/vubanc/AWS_DeployedCLVPredictor/blob/main/AWS_DeployedCLVPredictor.ipynb)): Predicted CLV as a regression problem using an econometric model, predicted CLV category (low or high) of customers using XGBoost, boosted the accuracy of the XGBoost model using RandomizedSearchCV, deployed the XGBoost model to a sagemaker REST endpoint and tested the deployed model.
 
-![Steps](https://github.com/vubanc/AWS_DeployedCLVPredictor/assets/108584512/57e9f043-3f70-4efe-a3f7-465b4a8f2222)
+![Steps](https://github.com/vubanc/AWS_DeployedCLVPredictor/assets/108584512/a2e531bb-2322-409b-add3-e82c21d4d158)
+
